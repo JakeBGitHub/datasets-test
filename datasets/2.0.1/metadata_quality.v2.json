@@ -108,6 +108,114 @@
     "weighted_error_percent": 26.85
   },
   {
+    "id": "d5649a81-5e75-45c2-ab89-3ce91f6d288b",
+    "publisher": "ALLIANCE > UK Biobank",
+    "title": "Accelerometer",
+    "weighted_quality_rating": "Bronze",
+    "weighted_quality_score": 61.74,
+    "weighted_completeness_percent": 53.02,
+    "weighted_error_percent": 29.53
+  },
+  {
+    "id": "a11a234b-8b59-41e8-920a-f8f1799d3c77",
+    "publisher": "ALLIANCE > UK Biobank",
+    "title": "Biological sample assays",
+    "weighted_quality_rating": "Bronze",
+    "weighted_quality_score": 61.74,
+    "weighted_completeness_percent": 53.02,
+    "weighted_error_percent": 29.53
+  },
+  {
+    "id": "6e5916d4-017c-4542-bc71-edf6d4c5a055",
+    "publisher": "ALLIANCE > UK Biobank",
+    "title": "Biological samples",
+    "weighted_quality_rating": "Bronze",
+    "weighted_quality_score": 63.09,
+    "weighted_completeness_percent": 55.7,
+    "weighted_error_percent": 29.53
+  },
+  {
+    "id": "75614b69-bc18-416b-9d27-fd8ca9fc4521",
+    "publisher": "ALLIANCE > UK Biobank",
+    "title": "Cancer register",
+    "weighted_quality_rating": "Bronze",
+    "weighted_quality_score": 67.11,
+    "weighted_completeness_percent": 58.39,
+    "weighted_error_percent": 24.16
+  },
+  {
+    "id": "3a56c317-bf1b-448d-89ab-3421eae3aa18",
+    "publisher": "ALLIANCE > UK Biobank",
+    "title": "Death register",
+    "weighted_quality_rating": "Bronze",
+    "weighted_quality_score": 67.11,
+    "weighted_completeness_percent": 58.39,
+    "weighted_error_percent": 24.16
+  },
+  {
+    "id": "07b82dd5-adc3-42c5-8a60-914042b5bc40",
+    "publisher": "ALLIANCE > UK Biobank",
+    "title": "Exome sequencing",
+    "weighted_quality_rating": "Not Rated",
+    "weighted_quality_score": 56.38,
+    "weighted_completeness_percent": 44.97,
+    "weighted_error_percent": 32.21
+  },
+  {
+    "id": "480ccd8a-309e-417a-ac23-5b2d9cd281b1",
+    "publisher": "ALLIANCE > UK Biobank",
+    "title": "Genotype",
+    "weighted_quality_rating": "Bronze",
+    "weighted_quality_score": 60.4,
+    "weighted_completeness_percent": 50.34,
+    "weighted_error_percent": 29.53
+  },
+  {
+    "id": "fb2a851b-3f1c-4665-bbdb-5461f1f36bca",
+    "publisher": "ALLIANCE > UK Biobank",
+    "title": "Hospital Inpatient data",
+    "weighted_quality_rating": "Bronze",
+    "weighted_quality_score": 67.11,
+    "weighted_completeness_percent": 58.39,
+    "weighted_error_percent": 24.16
+  },
+  {
+    "id": "93d26255-7199-4ea7-997d-f74890d12b87",
+    "publisher": "ALLIANCE > UK Biobank",
+    "title": "Imaging",
+    "weighted_quality_rating": "Bronze",
+    "weighted_quality_score": 61.74,
+    "weighted_completeness_percent": 53.02,
+    "weighted_error_percent": 29.53
+  },
+  {
+    "id": "bf625cfe-c4b2-4ea8-bbe8-1a8873ca4cb9",
+    "publisher": "ALLIANCE > UK Biobank",
+    "title": "Online questionnaires",
+    "weighted_quality_rating": "Bronze",
+    "weighted_quality_score": 63.09,
+    "weighted_completeness_percent": 53.02,
+    "weighted_error_percent": 26.85
+  },
+  {
+    "id": "b27afede-a51d-4aae-8bf7-ce94888fe898",
+    "publisher": "ALLIANCE > UK Biobank",
+    "title": "Primary-care data",
+    "weighted_quality_rating": "Bronze",
+    "weighted_quality_score": 64.43,
+    "weighted_completeness_percent": 53.02,
+    "weighted_error_percent": 24.16
+  },
+  {
+    "id": "bcb224fe-592f-4aaf-abd1-ad3e3caa61ff",
+    "publisher": "ALLIANCE > UK Biobank",
+    "title": "UK Biobank Assessment Centre",
+    "weighted_quality_rating": "Bronze",
+    "weighted_quality_score": 67.11,
+    "weighted_completeness_percent": 55.7,
+    "weighted_error_percent": 21.48
+  },
+  {
     "id": "2dc79612-0e0d-4336-aaa1-6abd90d28589",
     "publisher": "HUB > BREATHE",
     "title": "4 Country ChrOnic: estimating respiratory disease burden in adults, South India",
@@ -450,6 +558,15 @@
     "weighted_error_percent": 32.89
   },
   {
+    "id": "6413c50a-21a4-49ac-8865-b4e59cf42cd6",
+    "publisher": "HUB > BREATHE",
+    "title": "Salford Lung Study",
+    "weighted_quality_rating": "Bronze",
+    "weighted_quality_score": 65.44,
+    "weighted_completeness_percent": 58.39,
+    "weighted_error_percent": 27.52
+  },
+  {
     "id": "5d2758c6-b315-421f-9971-9df8ba83a2d4",
     "publisher": "HUB > BREATHE",
     "title": "SpiroMeta Consortium Dataset",
@@ -481,9 +598,9 @@
     "publisher": "HUB > BREATHE",
     "title": "The Malaysian Asthma Hajj Study",
     "weighted_quality_rating": "Bronze",
-    "weighted_quality_score": 60.74,
+    "weighted_quality_score": 62.08,
     "weighted_completeness_percent": 51.68,
-    "weighted_error_percent": 30.2
+    "weighted_error_percent": 27.52
   },
   {
     "id": "47e9fa0a-d74f-43bc-ae63-0eb33f354f01",
@@ -993,10 +1110,10 @@
     "id": "b765d514-1642-4762-a521-73463c977094",
     "publisher": "HUB > DATA-CAN",
     "title": "Yorkshire Specialist Register of Cancer in Children and Young People",
-    "weighted_quality_rating": "Gold",
-    "weighted_quality_score": 88.93,
-    "weighted_completeness_percent": 91.95,
-    "weighted_error_percent": 14.09
+    "weighted_quality_rating": "Platinum",
+    "weighted_quality_score": 90.6,
+    "weighted_completeness_percent": 89.26,
+    "weighted_error_percent": 8.05
   },
   {
     "id": "b9a2cd90-2724-4c7b-a26f-6f5b30a36a00",
@@ -1150,6 +1267,51 @@
     "weighted_quality_score": 90.6,
     "weighted_completeness_percent": 89.26,
     "weighted_error_percent": 8.05
+  },
+  {
+    "id": "7fdb684d-bb7a-4d0b-8666-9f10510f071f",
+    "publisher": "ALLIANCE > GENOMICS ENGLAND",
+    "title": "GENOMICS ENGLAND 100K CANCER & COMMON",
+    "weighted_quality_rating": "Platinum",
+    "weighted_quality_score": 91.64,
+    "weighted_completeness_percent": 91.64,
+    "weighted_error_percent": 8.36
+  },
+  {
+    "id": "2d4b933d-1c8b-4fde-860e-c324454d28f9",
+    "publisher": "ALLIANCE > GENOMICS ENGLAND",
+    "title": "GENOMICS ENGLAND 100K NHSD LINKED DATA",
+    "weighted_quality_rating": "Platinum",
+    "weighted_quality_score": 93.24,
+    "weighted_completeness_percent": 91.9,
+    "weighted_error_percent": 5.42
+  },
+  {
+    "id": "62c01293-83a5-4d4d-9d36-9d7aa2bf120f",
+    "publisher": "ALLIANCE > GENOMICS ENGLAND",
+    "title": "GENOMICS ENGLAND 100K PHE LINKED DATA",
+    "weighted_quality_rating": "Platinum",
+    "weighted_quality_score": 90.03,
+    "weighted_completeness_percent": 90.03,
+    "weighted_error_percent": 9.97
+  },
+  {
+    "id": "15efea36-d022-495c-a5b6-90f51631a643",
+    "publisher": "ALLIANCE > GENOMICS ENGLAND",
+    "title": "GENOMICS ENGLAND 100K QUICK VIEW",
+    "weighted_quality_rating": "Platinum",
+    "weighted_quality_score": 93.29,
+    "weighted_completeness_percent": 91.95,
+    "weighted_error_percent": 5.37
+  },
+  {
+    "id": "239e8253-a997-4676-8940-16b74a004365",
+    "publisher": "ALLIANCE > GENOMICS ENGLAND",
+    "title": "GENOMICS ENGLAND 100K RARE DISEASE & COMMON",
+    "weighted_quality_rating": "Platinum",
+    "weighted_quality_score": 91.51,
+    "weighted_completeness_percent": 91.51,
+    "weighted_error_percent": 8.49
   },
   {
     "id": "97ddd990-f47a-40f5-9178-cbf742e4c613",
@@ -2146,9 +2308,9 @@
     "publisher": "HUB > INSIGHT",
     "title": "Moorfields Eye Image Dataset Release 001",
     "weighted_quality_rating": "Gold",
-    "weighted_quality_score": 81.88,
-    "weighted_completeness_percent": 83.22,
-    "weighted_error_percent": 19.46
+    "weighted_quality_score": 85.57,
+    "weighted_completeness_percent": 85.23,
+    "weighted_error_percent": 14.09
   },
   {
     "id": "94351432-da7e-4d44-97eb-4359d45e0240",
@@ -2241,7 +2403,7 @@
     "weighted_error_percent": 2.68
   },
   {
-    "id": "c28e4dc6-3956-4bbe-bb10-50bcfc3bba28",
+    "id": "5976dcec-607f-4a42-b7dd-3cfb3904c2af",
     "publisher": "ALLIANCE > NHS DIGITAL",
     "title": "Covid-19 UK Non-hospital Antibody Testing Results",
     "weighted_quality_rating": "Platinum",
@@ -2256,6 +2418,15 @@
     "weighted_quality_rating": "Platinum",
     "weighted_quality_score": 94.3,
     "weighted_completeness_percent": 91.28,
+    "weighted_error_percent": 2.68
+  },
+  {
+    "id": "22f3773a-9157-40ad-8f3e-41feaa3be248",
+    "publisher": "ALLIANCE > NHS DIGITAL",
+    "title": "Emergency Care Data Set (ECDS)",
+    "weighted_quality_rating": "Platinum",
+    "weighted_quality_score": 92.95,
+    "weighted_completeness_percent": 88.59,
     "weighted_error_percent": 2.68
   },
   {
@@ -2286,7 +2457,7 @@
     "weighted_error_percent": 26.85
   },
   {
-    "id": "7b002523-ab79-42de-bc93-6c73e3cc2921",
+    "id": "de28157e-5319-4972-83ae-4d0c73cdfca9",
     "publisher": "ALLIANCE > NHS DIGITAL",
     "title": "Medicines dispensed in Primary Care (NHSBSA data)",
     "weighted_quality_rating": "Platinum",
@@ -2556,7 +2727,7 @@
     "weighted_error_percent": 38.26
   },
   {
-    "id": "2259bbdf-86e0-4107-801b-69dcb25b45b5",
+    "id": "41369771-7b1d-478f-a96c-96c25b637cb2",
     "publisher": "ALLIANCE > NHS DIGITAL",
     "title": "Secondary Uses Services Payment By Results",
     "weighted_quality_rating": "Platinum",
@@ -2565,7 +2736,7 @@
     "weighted_error_percent": 2.68
   },
   {
-    "id": "e09ddabc-b0b9-4f9d-af32-97293e0e6cb7",
+    "id": "54671cc2-614c-487d-89eb-52d94475b24a",
     "publisher": "HUB > NHS DIGITRIALS",
     "title": "Civil Registration - Deaths",
     "weighted_quality_rating": "Platinum",
@@ -2574,8 +2745,8 @@
     "weighted_error_percent": 5.37
   },
   {
-    "id": "c2f15f59-8e0d-4e90-9277-342497a6d961",
-    "publisher": "HUB > NHS DIGITRIALS",
+    "id": "5d76d094-446d-4dcc-baa1-076095f30c23",
+    "publisher": "ALLIANCE > NHS DIGITAL",
     "title": "Diagnostic Imaging Dataset",
     "weighted_quality_rating": "Platinum",
     "weighted_quality_score": 91.61,
@@ -2592,7 +2763,7 @@
     "weighted_error_percent": 8.05
   },
   {
-    "id": "4a813fda-a3c4-422e-9d11-c031ebc1f74f",
+    "id": "a4c42c98-39cd-407b-b711-c50c2529601f",
     "publisher": "HUB > NHS DIGITRIALS",
     "title": "Hospital Episode Statistics Admitted Patient Care",
     "weighted_quality_rating": "Gold",
@@ -2610,7 +2781,7 @@
     "weighted_error_percent": 5.37
   },
   {
-    "id": "5fffe53e-10bb-4d90-a5f6-fbac20c5ab9a",
+    "id": "2ce0e66e-9d68-43bd-b728-e6d1905a9f65",
     "publisher": "HUB > NHS DIGITRIALS",
     "title": "Hospital Episode Statistics Outpatients",
     "weighted_quality_rating": "Gold",
@@ -2619,7 +2790,7 @@
     "weighted_error_percent": 8.05
   },
   {
-    "id": "d612e29a-c26a-4512-99d4-548514b60c76",
+    "id": "f3fb7124-4dd7-46ae-851f-90c325131565",
     "publisher": "HUB > NHS DIGITRIALS",
     "title": "Mental Health Services Data Set",
     "weighted_quality_rating": "Platinum",
@@ -2637,8 +2808,8 @@
     "weighted_error_percent": 5.37
   },
   {
-    "id": "aafe3a2f-c0f3-44f2-b50e-d1120d5f2e93",
-    "publisher": "HUB > NHS DIGITRIALS",
+    "id": "c2e112a0-a198-46b0-9a0c-ec91edfb6839",
+    "publisher": "ALLIANCE > NHS DIGITAL",
     "title": "National Diabetes Audit",
     "weighted_quality_rating": "Platinum",
     "weighted_quality_score": 91.28,
@@ -2659,9 +2830,9 @@
     "publisher": "ALLIANCE > NHSX",
     "title": "The National COVID-19 Chest Imaging Database",
     "weighted_quality_rating": "Platinum",
-    "weighted_quality_score": 91.95,
-    "weighted_completeness_percent": 89.93,
-    "weighted_error_percent": 6.04
+    "weighted_quality_score": 95.97,
+    "weighted_completeness_percent": 94.63,
+    "weighted_error_percent": 2.68
   },
   {
     "id": "f1d3b068-7dd0-4a28-bd64-3519dd104eb6",
@@ -2826,6 +2997,15 @@
     "weighted_error_percent": 16.78
   },
   {
+    "id": "cea4fa1f-9439-43a5-8d20-1207dda24ab1",
+    "publisher": "OTHER > TEST",
+    "title": "Test Dataset 8",
+    "weighted_quality_rating": "Bronze",
+    "weighted_quality_score": 67.79,
+    "weighted_completeness_percent": 38.26,
+    "weighted_error_percent": 2.68
+  },
+  {
     "id": "39537838-164a-4aee-8859-957f0a347390",
     "publisher": "OTHER > Office for National Statistics",
     "title": "Business Impact of COVID-19 Survey (BICS)",
@@ -2871,31 +3051,13 @@
     "weighted_error_percent": 18.79
   },
   {
-    "id": "08fd6103-be40-4380-9399-aecaeb216d33",
-    "publisher": "OTHER > Office for National Statistics",
-    "title": "Labour Force Survey (Household)",
-    "weighted_quality_rating": "Not Rated",
-    "weighted_quality_score": 50.34,
-    "weighted_completeness_percent": 33.56,
-    "weighted_error_percent": 32.89
-  },
-  {
-    "id": "697040c3-b26e-406d-b675-441b32cc1a53",
-    "publisher": "OTHER > Office for National Statistics",
+    "id": "598989e4-17b7-4730-87af-b7e6b1519301",
+    "publisher": "NCS > OFFICE FOR NATIONAL STATISTICS",
     "title": "Labour Force Survey (Longitudinal)",
-    "weighted_quality_rating": "Not Rated",
-    "weighted_quality_score": 53.02,
-    "weighted_completeness_percent": 36.24,
-    "weighted_error_percent": 30.2
-  },
-  {
-    "id": "73ba9de7-67fe-4728-b397-bc5fb1d67df1",
-    "publisher": "OTHER > Office for National Statistics",
-    "title": "Labour Force Survey (Person)",
-    "weighted_quality_rating": "Not Rated",
-    "weighted_quality_score": 53.02,
-    "weighted_completeness_percent": 36.24,
-    "weighted_error_percent": 30.2
+    "weighted_quality_rating": "Silver",
+    "weighted_quality_score": 76.51,
+    "weighted_completeness_percent": 69.8,
+    "weighted_error_percent": 16.78
   },
   {
     "id": "1bfdab55-3e6a-4b26-bff1-0105ad416cea",
@@ -3105,6 +3267,24 @@
     "weighted_error_percent": 5.37
   },
   {
+    "id": "c89d31bb-adc9-499d-b94a-6d5b2c85d126",
+    "publisher": "HUB > PIONEER",
+    "title": "UHB 2019 Summer Society of Acute Medicine Benchmarking Audit",
+    "weighted_quality_rating": "Platinum",
+    "weighted_quality_score": 93.29,
+    "weighted_completeness_percent": 89.26,
+    "weighted_error_percent": 2.68
+  },
+  {
+    "id": "dc4d5fc6-b39a-4199-b1f2-1b428fc32cd9",
+    "publisher": "HUB > PIONEER",
+    "title": "UHB 2020 Winter Society of Acute Medicine Benchmarking Audit",
+    "weighted_quality_rating": "Platinum",
+    "weighted_quality_score": 93.29,
+    "weighted_completeness_percent": 89.26,
+    "weighted_error_percent": 2.68
+  },
+  {
     "id": "1d1244b6-aeeb-4655-b5a2-2357ed28227a",
     "publisher": "HUB > PIONEER",
     "title": "University Hospitals Birmingham PICS data",
@@ -3222,7 +3402,7 @@
     "weighted_error_percent": 2.68
   },
   {
-    "id": "bfc6e7c5-a81b-4fe2-95b5-d108a48d7d67",
+    "id": "d0137466-d07e-4bfd-817b-198086b9fa13",
     "publisher": "ALLIANCE > PUBLIC HEALTH SCOTLAND",
     "title": "Mental Health Inpatient and Day Case - Scottish Morbidity Record (SMR04)",
     "weighted_quality_rating": "Platinum",
@@ -3276,13 +3456,13 @@
     "weighted_error_percent": 2.68
   },
   {
-    "id": "0b794715-53f3-422f-817a-92be3392c735",
+    "id": "0cb92a4a-cc82-4c33-98f7-06ba93818c50",
     "publisher": "ALLIANCE > PUBLIC HEALTH SCOTLAND",
     "title": "Prescribing Information System (PIS)",
     "weighted_quality_rating": "Platinum",
     "weighted_quality_score": 94.97,
-    "weighted_completeness_percent": 92.62,
-    "weighted_error_percent": 2.68
+    "weighted_completeness_percent": 89.93,
+    "weighted_error_percent": 0
   },
   {
     "id": "380cbddb-e64e-42b9-a364-47c550262b6a",
@@ -3294,7 +3474,7 @@
     "weighted_error_percent": 8.05
   },
   {
-    "id": "5cffe432-21f9-44ba-b0fc-a6200115c21c",
+    "id": "22173c55-25db-4616-97d8-04fdb6899387",
     "publisher": "ALLIANCE > PUBLIC HEALTH SCOTLAND",
     "title": "Scotland Accident and Emergency",
     "weighted_quality_rating": "Platinum",
@@ -3303,13 +3483,13 @@
     "weighted_error_percent": 0
   },
   {
-    "id": "4c1f6594-9ade-4e24-8e44-af9ecb73e231",
+    "id": "621576c2-a995-424b-a506-2276f9b03f37",
     "publisher": "ALLIANCE > PUBLIC HEALTH SCOTLAND",
     "title": "Scottish Birth Record (SBR)",
-    "weighted_quality_rating": "Silver",
-    "weighted_quality_score": 75.5,
-    "weighted_completeness_percent": 69.8,
-    "weighted_error_percent": 18.79
+    "weighted_quality_rating": "Platinum",
+    "weighted_quality_score": 92.95,
+    "weighted_completeness_percent": 88.59,
+    "weighted_error_percent": 2.68
   },
   {
     "id": "4481aab8-9b4f-43dd-9cd4-1e427561a2a5",
@@ -3357,7 +3537,7 @@
     "weighted_error_percent": 0
   },
   {
-    "id": "117aa9f5-db76-48f9-9dd2-19e2d00a1b45",
+    "id": "02dceba1-65c7-49e8-a3e2-05e71c1a3033",
     "publisher": "ALLIANCE > PUBLIC HEALTH SCOTLAND",
     "title": "Unscheduled Care Datamart",
     "weighted_quality_rating": "Platinum",
@@ -3562,6 +3742,15 @@
     "weighted_quality_score": 94.3,
     "weighted_completeness_percent": 93.96,
     "weighted_error_percent": 5.37
+  },
+  {
+    "id": "41a667eb-1c84-4665-b0d4-d26405d277c5",
+    "publisher": "ALLIANCE > SAIL",
+    "title": "Domiciliary Social Care Worker [DSCW]",
+    "weighted_quality_rating": "Gold",
+    "weighted_quality_score": 88.93,
+    "weighted_completeness_percent": 88.59,
+    "weighted_error_percent": 10.74
   },
   {
     "id": "d2da2750-7482-4ce9-ae5c-2ab393408a67",
@@ -3778,6 +3967,15 @@
     "weighted_quality_score": 94.3,
     "weighted_completeness_percent": 93.96,
     "weighted_error_percent": 5.37
+  },
+  {
+    "id": "3141f405-9653-4189-9a1f-443a463d4b1b",
+    "publisher": "ALLIANCE > SAIL",
+    "title": "Systemic Anti-Cancer Therapy Dataset [SACT]",
+    "weighted_quality_rating": "Gold",
+    "weighted_quality_score": 88.59,
+    "weighted_completeness_percent": 87.92,
+    "weighted_error_percent": 10.74
   },
   {
     "id": "b43309eb-7860-49b7-9f11-1a7a0fd5532e",

@@ -11,6 +11,18 @@ f8bab14a-bc9b-4dd1-a6c6-c57588605849,ALLIANCE > BARTS HEALTH NHS TRUST,Maternity
 3cd53c68-7e56-4c3e-b7c2-bd7e18040ec5,ALLIANCE > BARTS HEALTH NHS TRUST,"Problems, Diagnosis and Procedures",Not Rated,46.31,19.46,26.85
 04f4604e-6d0b-4100-977b-59c3b69b0cfc,ALLIANCE > BARTS HEALTH NHS TRUST,Sectra PACS,Not Rated,46.31,19.46,26.85
 7d501f79-5d1f-4104-a5b7-d46a97fcde5f,ALLIANCE > BARTS HEALTH NHS TRUST,Somerset Cancer Registry,Not Rated,46.31,19.46,26.85
+d5649a81-5e75-45c2-ab89-3ce91f6d288b,ALLIANCE > UK Biobank,Accelerometer,Bronze,61.74,53.02,29.53
+a11a234b-8b59-41e8-920a-f8f1799d3c77,ALLIANCE > UK Biobank,Biological sample assays,Bronze,61.74,53.02,29.53
+6e5916d4-017c-4542-bc71-edf6d4c5a055,ALLIANCE > UK Biobank,Biological samples,Bronze,63.09,55.7,29.53
+75614b69-bc18-416b-9d27-fd8ca9fc4521,ALLIANCE > UK Biobank,Cancer register,Bronze,67.11,58.39,24.16
+3a56c317-bf1b-448d-89ab-3421eae3aa18,ALLIANCE > UK Biobank,Death register,Bronze,67.11,58.39,24.16
+07b82dd5-adc3-42c5-8a60-914042b5bc40,ALLIANCE > UK Biobank,Exome sequencing,Not Rated,56.38,44.97,32.21
+480ccd8a-309e-417a-ac23-5b2d9cd281b1,ALLIANCE > UK Biobank,Genotype,Bronze,60.4,50.34,29.53
+fb2a851b-3f1c-4665-bbdb-5461f1f36bca,ALLIANCE > UK Biobank,Hospital Inpatient data,Bronze,67.11,58.39,24.16
+93d26255-7199-4ea7-997d-f74890d12b87,ALLIANCE > UK Biobank,Imaging,Bronze,61.74,53.02,29.53
+bf625cfe-c4b2-4ea8-bbe8-1a8873ca4cb9,ALLIANCE > UK Biobank,Online questionnaires,Bronze,63.09,53.02,26.85
+b27afede-a51d-4aae-8bf7-ce94888fe898,ALLIANCE > UK Biobank,Primary-care data,Bronze,64.43,53.02,24.16
+bcb224fe-592f-4aaf-abd1-ad3e3caa61ff,ALLIANCE > UK Biobank,UK Biobank Assessment Centre,Bronze,67.11,55.7,21.48
 2dc79612-0e0d-4336-aaa1-6abd90d28589,HUB > BREATHE,"4 Country ChrOnic: estimating respiratory disease burden in adults, South India",Bronze,61.41,53.02,30.2
 be9bf427-d96d-4b1a-b1d1-83bdc3e8790b,HUB > BREATHE,4 LMIC Asian Country ChrOnic: estimating respiratory disease burden in adults,Bronze,64.43,56.38,27.52
 1b80d25c-4f0f-497b-8614-4d1a8c4d1cd3,HUB > BREATHE,Air Quality Study: An ecological analysis of asthma health outcomes in Malaysia,Not Rated,56.71,46.31,32.89
@@ -49,10 +61,11 @@ ae4b8371-d037-46e8-bdcd-bf3de08ef38e,HUB > BREATHE,Optimum Patient Care Research
 50feb9f3-3be8-4690-913b-bd462d27d3db,HUB > BREATHE,Prospective Observation of Fibrosis in the Lung Clinical Endpoints,Bronze,63.09,56.38,30.2
 09e8e407-82b4-4ed4-b296-53810472cbe9,HUB > BREATHE,Reasons for delay in seeking care for pneumonia in children under five,Bronze,64.43,59.06,30.2
 0d0ce21e-afc1-4d9f-bf54-e0545363a0cc,HUB > BREATHE,Research on use of an online learning platform on under-five pneumonia,Bronze,61.74,56.38,32.89
+6413c50a-21a4-49ac-8865-b4e59cf42cd6,HUB > BREATHE,Salford Lung Study,Bronze,65.44,58.39,27.52
 5d2758c6-b315-421f-9971-9df8ba83a2d4,HUB > BREATHE,SpiroMeta Consortium Dataset,Silver,72.48,64.43,19.46
 d3e859ba-cfb0-4eda-a14c-34b08d113cd9,HUB > BREATHE,Strategy introducing Pulmonary Rehabilitation for COPD management in rural India,Bronze,61.41,53.02,30.2
 ffc34689-1a81-4f56-9c3f-e62b76d8445b,HUB > BREATHE,Teleconsultation in remote rural India: management of COPD and Asthma,Bronze,64.09,55.7,27.52
-eff41dbc-0ce4-4bfe-b51f-7b2753750332,HUB > BREATHE,The Malaysian Asthma Hajj Study,Bronze,60.74,51.68,30.2
+eff41dbc-0ce4-4bfe-b51f-7b2753750332,HUB > BREATHE,The Malaysian Asthma Hajj Study,Bronze,62.08,51.68,27.52
 47e9fa0a-d74f-43bc-ae63-0eb33f354f01,HUB > BREATHE,Theory of Planned Behaviour Intervention: respiratory disease in South India,Bronze,61.41,53.02,30.2
 c43363e5-a2cd-4990-a425-733dfe559a4f,HUB > BREATHE,UK BiLEVE Consortium Dataset,Silver,72.48,64.43,19.46
 def6669b-0fac-485c-84b2-2ea83ec31123,HUB > BREATHE,UK Lung Volume Reduction Surgery,Bronze,69.8,64.43,24.83
@@ -109,7 +122,7 @@ e432737f-43c0-43c1-aef5-71cb204d770c,ALLIANCE > CYSTIC FIBROSIS TRUST,Cystic Fib
 395d4311-da00-49a4-b78e-5387c961d803,HUB > DATA-CAN,Children’s Kidney Cancers - Great Ormond Street Hospital,Platinum,92.62,93.96,8.72
 49dc6bfb-37f7-4f18-92e7-1a06ab80633e,HUB > DATA-CAN,Comprehensive Patient Records for Cancer Outcomes,Gold,88.51,89.52,12.49
 960c4d6c-11dc-42c0-ab30-82606fd2974e,HUB > DATA-CAN,Real Time Data Network (RTDN),Platinum,93.96,87.92,0.0
-b765d514-1642-4762-a521-73463c977094,HUB > DATA-CAN,Yorkshire Specialist Register of Cancer in Children and Young People,Gold,88.93,91.95,14.09
+b765d514-1642-4762-a521-73463c977094,HUB > DATA-CAN,Yorkshire Specialist Register of Cancer in Children and Young People,Platinum,90.6,89.26,8.05
 b9a2cd90-2724-4c7b-a26f-6f5b30a36a00,HUB > DISCOVER NOW,North West London Accident and Emergency Data (NWL A&E),Platinum,94.24,93.9,5.43
 90baf782-0f16-4a48-8ff9-5a0b2aed7cd0,HUB > DISCOVER NOW,North West London Admitted Patient Care Data (NWL APC),Platinum,94.29,93.95,5.38
 4b1202a7-aaf8-486d-86b0-d75a421a5e60,HUB > DISCOVER NOW,North West London Adult Social Care Data (NWL ASC),Platinum,93.03,92.69,6.64
@@ -127,6 +140,11 @@ b14a19db-f3fd-4298-93e9-9732d99d8ee9,HUB > DISCOVER NOW,North West London High C
 b51be1a2-3d25-43ad-9acb-58d291332367,HUB > DISCOVER NOW,North West London Primary Care Prescriptions Data (NWL PCP),Platinum,94.3,93.96,5.37
 301233da-53f8-4cea-8f74-4d4aa8d8c42c,ALLIANCE > GENERATION SCOTLAND,Generation Scotland: Scottish Family Health Study,Not Rated,57.38,47.65,32.89
 1900af1a-bd21-4157-ac48-203eec682073,ALLIANCE > GENOMICS ENGLAND,GENOMICS ENGLAND 100K BIOINFORMATICS DATA,Platinum,90.6,89.26,8.05
+7fdb684d-bb7a-4d0b-8666-9f10510f071f,ALLIANCE > GENOMICS ENGLAND,GENOMICS ENGLAND 100K CANCER & COMMON,Platinum,91.64,91.64,8.36
+2d4b933d-1c8b-4fde-860e-c324454d28f9,ALLIANCE > GENOMICS ENGLAND,GENOMICS ENGLAND 100K NHSD LINKED DATA,Platinum,93.24,91.9,5.42
+62c01293-83a5-4d4d-9d36-9d7aa2bf120f,ALLIANCE > GENOMICS ENGLAND,GENOMICS ENGLAND 100K PHE LINKED DATA,Platinum,90.03,90.03,9.97
+15efea36-d022-495c-a5b6-90f51631a643,ALLIANCE > GENOMICS ENGLAND,GENOMICS ENGLAND 100K QUICK VIEW,Platinum,93.29,91.95,5.37
+239e8253-a997-4676-8940-16b74a004365,ALLIANCE > GENOMICS ENGLAND,GENOMICS ENGLAND 100K RARE DISEASE & COMMON,Platinum,91.51,91.51,8.49
 97ddd990-f47a-40f5-9178-cbf742e4c613,HUB > GUT REACTION,IBD Registry,Not Rated,53.02,27.52,21.48
 2aabcea9-d0dd-4780-b162-3c7ed3ee9888,ALLIANCE > HEALTH AND SOCIAL CARE NORTHERN IRELAND,Admissions & Discharges,Gold,89.6,84.56,5.37
 7389dc03-1fc7-4af7-b12c-bbab448290f9,ALLIANCE > HEALTH AND SOCIAL CARE NORTHERN IRELAND,COVID antigen testing - Pillar 1,Gold,88.26,84.56,8.05
@@ -237,7 +255,7 @@ ddc965e7-6f52-4eed-bed5-657e3e7bbeac,ALLIANCE > HQIP,National Vascular Registry 
 09586db0-4da4-47f8-9434-13cbd2da2bb9,ALLIANCE > HQIP,Paediatric Intensive Care Audit Network - customised data collection,Not Rated,50.34,30.2,29.53
 c3d84dfa-fe3a-4b86-a0f5-efbe45aa93ad,ALLIANCE > HQIP,Sentinel Stroke National Audit Programme Acute Organisational survey dataset,Not Rated,50.34,30.2,29.53
 d3673b75-ec8f-4c2e-8c9b-6ef1d951f978,ALLIANCE > HQIP,Sentinel Stroke National Audit Programme Clinical Dataset,Not Rated,50.34,30.2,29.53
-6959639d-5bd2-4b53-918e-8f56784b2870,HUB > INSIGHT,Moorfields Eye Image Dataset Release 001,Gold,81.88,83.22,19.46
+6959639d-5bd2-4b53-918e-8f56784b2870,HUB > INSIGHT,Moorfields Eye Image Dataset Release 001,Gold,85.57,85.23,14.09
 94351432-da7e-4d44-97eb-4359d45e0240,HUB > INSIGHT,UHB Eye Image Dataset Release 001,Not Rated,59.06,53.69,35.57
 9a85b69e-fd3e-4522-bc68-48024df0ea3e,ALLIANCE > ISARIC 4C,COVID-19 Clinical Information Network (CO-CIN),Gold,89.93,85.23,5.37
 00a00000-a0a0-0000-a000-aa00000a00a0,OTHER > MDWTest,MetadataWorks 2.1 Test Datamodel,Platinum,97.32,94.63,0.0
@@ -248,12 +266,13 @@ bc30732b-32cb-4f66-8794-e6e6691c79e7,ALLIANCE > NHS DIGITAL,Cancer Registration 
 8e66e623-2859-4a65-93d7-abd41e139976,ALLIANCE > NHS DIGITAL,Community Services Data Set,Silver,76.17,63.09,10.74
 511f73b6-5181-408d-ae40-69b0ef70e732,ALLIANCE > NHS DIGITAL,COVID-19 SARI-Watch (formerly CHESS),Platinum,93.96,90.6,2.68
 31fd27d5-c08d-49c3-b7f1-0af71ad219aa,ALLIANCE > NHS DIGITAL,Covid-19 Second Generation Surveillance System,Platinum,93.96,90.6,2.68
-c28e4dc6-3956-4bbe-bb10-50bcfc3bba28,ALLIANCE > NHS DIGITAL,Covid-19 UK Non-hospital Antibody Testing Results,Platinum,95.3,90.6,0.0
+5976dcec-607f-4a42-b7dd-3cfb3904c2af,ALLIANCE > NHS DIGITAL,Covid-19 UK Non-hospital Antibody Testing Results,Platinum,95.3,90.6,0.0
 744ab66e-8430-475a-a385-451347d9fc8a,ALLIANCE > NHS DIGITAL,Covid-19 UK Non-hospital Antigen Testing Results,Platinum,94.3,91.28,2.68
+22f3773a-9157-40ad-8f3e-41feaa3be248,ALLIANCE > NHS DIGITAL,Emergency Care Data Set (ECDS),Platinum,92.95,88.59,2.68
 f56d5407-4a7e-420e-8479-87b075da2b39,ALLIANCE > NHS DIGITAL,GPES Data for Pandemic Planning and Research (COVID-19),Platinum,94.63,91.95,2.68
 86d7088b-7a15-4e9a-b2b0-857a67e04650,ALLIANCE > NHS DIGITAL,HES:Civil Registration (Deaths) bridge,Not Rated,53.36,36.91,30.2
 cef00323-8756-4ea5-99e4-f12dcb2c6297,ALLIANCE > NHS DIGITAL,Improving Access to Psychological Therapies Data Set,Bronze,61.74,50.34,26.85
-7b002523-ab79-42de-bc93-6c73e3cc2921,ALLIANCE > NHS DIGITAL,Medicines dispensed in Primary Care (NHSBSA data),Platinum,91.61,88.59,5.37
+de28157e-5319-4972-83ae-4d0c73cdfca9,ALLIANCE > NHS DIGITAL,Medicines dispensed in Primary Care (NHSBSA data),Platinum,91.61,88.59,5.37
 4262e057-6978-4e4c-a05d-c4f328422090,ALLIANCE > NHS DIGITAL,Mental Health and Learning Disabilities Data Set,Not Rated,52.01,36.91,32.89
 c713773c-e961-400e-b44a-947002deb073,ALLIANCE > NHS DIGITAL,Mental Health & Learning Disabilities Dataset v 1 (Non-Sensitive) Episodes,Silver,70.81,53.02,11.41
 0fc61ace-397d-4489-9e62-77f88082e775,ALLIANCE > NHS DIGITAL,Mental Health & Learning Disabilities Dataset v 1 (Non-Sensitive) Events,Silver,70.81,55.7,14.09
@@ -283,18 +302,18 @@ ff2c6982-00f3-4483-9fc2-19b3a7211d8d,ALLIANCE > NHS DIGITAL,Mental Health Minimu
 8eace3c2-1dc8-4708-9350-ad129b7d2bc9,ALLIANCE > NHS DIGITAL,Mental Health Services Data Set - Inpatients,Not Rated,52.01,36.91,32.89
 1d5e3b05-8ce3-4f80-ae3a-f6031ad8cf69,ALLIANCE > NHS DIGITAL,Mental Health Services Data Set - Service Users,Not Rated,52.01,36.91,32.89
 d2af6a29-291b-4444-a17c-40f4208f1e1b,ALLIANCE > NHS DIGITAL,Patient Reported Outcome Measures,Not Rated,43.29,24.83,38.26
-2259bbdf-86e0-4107-801b-69dcb25b45b5,ALLIANCE > NHS DIGITAL,Secondary Uses Services Payment By Results,Platinum,94.3,91.28,2.68
-e09ddabc-b0b9-4f9d-af32-97293e0e6cb7,HUB > NHS DIGITRIALS,Civil Registration - Deaths,Platinum,91.28,87.92,5.37
-c2f15f59-8e0d-4e90-9277-342497a6d961,HUB > NHS DIGITRIALS,Diagnostic Imaging Dataset,Platinum,91.61,88.59,5.37
+41369771-7b1d-478f-a96c-96c25b637cb2,ALLIANCE > NHS DIGITAL,Secondary Uses Services Payment By Results,Platinum,94.3,91.28,2.68
+54671cc2-614c-487d-89eb-52d94475b24a,HUB > NHS DIGITRIALS,Civil Registration - Deaths,Platinum,91.28,87.92,5.37
+5d76d094-446d-4dcc-baa1-076095f30c23,ALLIANCE > NHS DIGITAL,Diagnostic Imaging Dataset,Platinum,91.61,88.59,5.37
 512ab154-41e9-4231-9091-67814123e964,HUB > NHS DIGITRIALS,Hospital Episode Statistics Accident and Emergency,Gold,89.6,87.25,8.05
-4a813fda-a3c4-422e-9d11-c031ebc1f74f,HUB > NHS DIGITRIALS,Hospital Episode Statistics Admitted Patient Care,Gold,89.93,87.92,8.05
+a4c42c98-39cd-407b-b711-c50c2529601f,HUB > NHS DIGITRIALS,Hospital Episode Statistics Admitted Patient Care,Gold,89.93,87.92,8.05
 f0392b68-5075-4557-adaa-2fb24b5dec4d,HUB > NHS DIGITRIALS,Hospital Episode Statistics Critical Care,Platinum,91.28,87.92,5.37
-5fffe53e-10bb-4d90-a5f6-fbac20c5ab9a,HUB > NHS DIGITRIALS,Hospital Episode Statistics Outpatients,Gold,89.93,87.92,8.05
-d612e29a-c26a-4512-99d4-548514b60c76,HUB > NHS DIGITRIALS,Mental Health Services Data Set,Platinum,93.96,90.6,2.68
+2ce0e66e-9d68-43bd-b728-e6d1905a9f65,HUB > NHS DIGITRIALS,Hospital Episode Statistics Outpatients,Gold,89.93,87.92,8.05
+f3fb7124-4dd7-46ae-851f-90c325131565,HUB > NHS DIGITRIALS,Mental Health Services Data Set,Platinum,93.96,90.6,2.68
 54b52301-d0be-4441-8b84-8c521fe8946d,HUB > NHS DIGITRIALS,MSDS (Maternity Services Data Set),Platinum,91.28,87.92,5.37
-aafe3a2f-c0f3-44f2-b50e-d1120d5f2e93,HUB > NHS DIGITRIALS,National Diabetes Audit,Platinum,91.28,87.92,5.37
+c2e112a0-a198-46b0-9a0c-ec91edfb6839,ALLIANCE > NHS DIGITAL,National Diabetes Audit,Platinum,91.28,87.92,5.37
 caf619c9-3e9c-4873-a7ba-c0df8f4a62c2,HUB > NHS DIGITRIALS,Personal Demographic Service,Platinum,93.96,90.6,2.68
-8c13e03e-b9d2-4b04-8b98-097643a6beaf,ALLIANCE > NHSX,The National COVID-19 Chest Imaging Database,Platinum,91.95,89.93,6.04
+8c13e03e-b9d2-4b04-8b98-097643a6beaf,ALLIANCE > NHSX,The National COVID-19 Chest Imaging Database,Platinum,95.97,94.63,2.68
 f1d3b068-7dd0-4a28-bd64-3519dd104eb6,ALLIANCE > NIHR BIORESOURCE,Case report form,Gold,84.56,83.22,14.09
 89e57932-ac48-48ac-a6e5-29795bc38b94,ALLIANCE > NIHR BIORESOURCE,Consent records,Gold,80.54,75.17,14.09
 62fc43ed-1198-4769-ad39-a0bc2c05fd47,ALLIANCE > NIHR BIORESOURCE,Contact detail,Gold,83.22,77.85,11.41
@@ -313,14 +332,13 @@ f1a85970-bddc-499b-92e9-783706c60995,ALLIANCE > NIHR BIORESOURCE,SNP imputation 
 b40777a2-468b-4b45-8b7d-2f62f912e950,ALLIANCE > NIHR Health Informatics Collaborative Critical Care Theme,HIC ICU 8.3.2,Gold,81.88,80.54,16.78
 a0e0c0c2-072a-47ac-9252-e27b37ac024f,ALLIANCE > NIHR Health Informatics Collaborative Renal Transplantation Theme,HIC Transplantation,Gold,80.2,79.87,19.46
 73f54071-62bf-48f5-8be1-569208b18ab8,ALLIANCE > NIHR Health Informatics Collaborative Viral Hepatitis Theme,HIC Hepatitis v2,Gold,81.88,80.54,16.78
+cea4fa1f-9439-43a5-8d20-1207dda24ab1,OTHER > TEST,Test Dataset 8,Bronze,67.79,38.26,2.68
 39537838-164a-4aee-8859-957f0a347390,OTHER > Office for National Statistics,Business Impact of COVID-19 Survey (BICS),Silver,72.15,63.09,18.79
 62087504-c04e-4382-9c71-e1c9b83d2d5e,OTHER > Office for National Statistics,Census 2011 E&W - Household structure for COVID-19 models,Platinum,91.95,86.58,2.68
 5aa849d6-cff2-4515-8510-f5472b07955d,OTHER > Office for National Statistics,Coronavirus and the social impacts on Great Britain,Bronze,67.79,57.72,22.15
 90ad6023-6c7f-4605-9323-b478a27c3c9a,OTHER > Office for National Statistics,Covid-19 Infection Survey,Platinum,91.95,86.58,2.68
 9f34263d-ea74-4ddf-84df-b8dedd4baf6d,OTHER > Office for National Statistics,Death registration data - Provisional Monthly Extracts,Silver,74.5,67.79,18.79
-08fd6103-be40-4380-9399-aecaeb216d33,OTHER > Office for National Statistics,Labour Force Survey (Household),Not Rated,50.34,33.56,32.89
-697040c3-b26e-406d-b675-441b32cc1a53,OTHER > Office for National Statistics,Labour Force Survey (Longitudinal),Not Rated,53.02,36.24,30.2
-73ba9de7-67fe-4728-b397-bc5fb1d67df1,OTHER > Office for National Statistics,Labour Force Survey (Person),Not Rated,53.02,36.24,30.2
+598989e4-17b7-4730-87af-b7e6b1519301,NCS > OFFICE FOR NATIONAL STATISTICS,Labour Force Survey (Longitudinal),Silver,76.51,69.8,16.78
 1bfdab55-3e6a-4b26-bff1-0105ad416cea,OTHER > Office for National Statistics,Linked Census and death occurrences,Platinum,90.39,83.68,2.9
 172242ce-a1c5-4915-9c71-686f6e7d5789,ALLIANCE > OUH,ARIA Medonc,Not Rated,43.29,19.46,32.89
 5e022f8f-4d07-44bb-a87c-43e31200fe1e,ALLIANCE > OUH,ARIA Radonc,Not Rated,43.29,19.46,32.89
@@ -344,6 +362,8 @@ bf607b38-bedf-4bda-a3ce-e6b1bb68d1df,HUB > PIONEER,"OMOP dataset: Hospital COVID
 f075ceb7-5bed-4e6b-8e83-211aee945356,HUB > PIONEER,Society for Acute Medicine Benchmarking Audit,Not Rated,48.99,30.2,32.21
 9e965a9f-4213-43f3-9033-c7df1610ceb5,HUB > PIONEER,The impact of COVID on hospitalised patients with COPD; a dataset in OMOP,Platinum,93.29,89.26,2.68
 22e14c8d-9d92-4437-b39b-f69f7b033d13,HUB > PIONEER,The impact of ethnicity and multi-morbidity on C19 hospitalised outcomes,Platinum,91.95,89.26,5.37
+c89d31bb-adc9-499d-b94a-6d5b2c85d126,HUB > PIONEER,UHB 2019 Summer Society of Acute Medicine Benchmarking Audit,Platinum,93.29,89.26,2.68
+dc4d5fc6-b39a-4199-b1f2-1b428fc32cd9,HUB > PIONEER,UHB 2020 Winter Society of Acute Medicine Benchmarking Audit,Platinum,93.29,89.26,2.68
 1d1244b6-aeeb-4655-b5a2-2357ed28227a,HUB > PIONEER,University Hospitals Birmingham PICS data,Not Rated,50.34,30.2,29.53
 7c738c20-953f-4003-b972-4abc6e163efb,HUB > PIONEER,Ventilatory strategies and outcomes for patients with COVID: a dataset in OMOP,Platinum,91.95,86.58,2.68
 79a7ad18-6941-4543-924a-787f2381f5e0,ALLIANCE > PUBLIC HEALTH ENGLAND,National Cancer Registration and Analysis Service,Gold,85.3,81.27,10.67
@@ -357,22 +377,22 @@ a3b9cfd3-abd1-4d18-99cc-360cd9d543c2,ALLIANCE > SCOTLAND,ECOSS (-/+VE tested pat
 2537007c-9e9e-4441-a0d1-59fa400566c5,ALLIANCE > SCOTLAND,General Acute Inpatient and Day Case - Scottish Morbidity Record (SMR01),Platinum,93.29,89.26,2.68
 98babf8f-a557-410a-9075-640db283c9a3,ALLIANCE > PUBLIC HEALTH SCOTLAND,GP Out of Hours,Gold,82.55,73.83,8.72
 824e20d9-217a-4028-bb49-91164edcca00,ALLIANCE > SCOTLAND,Maternity Inpatient and Day Case - Scottish Morbidity Record (SMR02),Platinum,93.29,89.26,2.68
-bfc6e7c5-a81b-4fe2-95b5-d108a48d7d67,ALLIANCE > PUBLIC HEALTH SCOTLAND,Mental Health Inpatient and Day Case - Scottish Morbidity Record (SMR04),Platinum,94.63,89.26,0.0
+d0137466-d07e-4bfd-817b-198086b9fa13,ALLIANCE > PUBLIC HEALTH SCOTLAND,Mental Health Inpatient and Day Case - Scottish Morbidity Record (SMR04),Platinum,94.63,89.26,0.0
 7db1c8bd-8d99-4189-8510-e6bdb0e19219,ALLIANCE > PUBLIC HEALTH SCOTLAND,National Records of Scotland (NRS) - Births Data,Bronze,66.78,58.39,24.83
 e61fce14-617d-4f7b-80aa-468d94c6d897,ALLIANCE > SCOTLAND,National Records of Scotland (NRS) - Deaths Data,Gold,89.6,84.56,5.37
 9328f206-db9a-4feb-9012-deab80cafd2e,ALLIANCE > PUBLIC HEALTH SCOTLAND,National Records of Scotland (NRS) - Stillbirth Data,Gold,81.88,75.17,11.41
 80b54fc9-8dc0-4134-880d-ffa8d4473204,ALLIANCE > PUBLIC HEALTH SCOTLAND,NHS Scotland General Practice (GP) Contact Data - Subset,Platinum,90.93,84.55,2.7
 d8043751-28d6-4cfe-b860-757e592ab3cb,ALLIANCE > SCOTLAND,Outpatient Appointments and Attendances - Scottish Morbidity Record (SMR00),Platinum,93.29,89.26,2.68
-0b794715-53f3-422f-817a-92be3392c735,ALLIANCE > PUBLIC HEALTH SCOTLAND,Prescribing Information System (PIS),Platinum,94.97,92.62,2.68
+0cb92a4a-cc82-4c33-98f7-06ba93818c50,ALLIANCE > PUBLIC HEALTH SCOTLAND,Prescribing Information System (PIS),Platinum,94.97,89.93,0.0
 380cbddb-e64e-42b9-a364-47c550262b6a,ALLIANCE > NHS Scotland,RAPID (Hospital Stay Level Data),Gold,86.24,80.54,8.05
-5cffe432-21f9-44ba-b0fc-a6200115c21c,ALLIANCE > PUBLIC HEALTH SCOTLAND,Scotland Accident and Emergency,Platinum,94.63,89.26,0.0
-4c1f6594-9ade-4e24-8e44-af9ecb73e231,ALLIANCE > PUBLIC HEALTH SCOTLAND,Scottish Birth Record (SBR),Silver,75.5,69.8,18.79
+22173c55-25db-4616-97d8-04fdb6899387,ALLIANCE > PUBLIC HEALTH SCOTLAND,Scotland Accident and Emergency,Platinum,94.63,89.26,0.0
+621576c2-a995-424b-a506-2276f9b03f37,ALLIANCE > PUBLIC HEALTH SCOTLAND,Scottish Birth Record (SBR),Platinum,92.95,88.59,2.68
 4481aab8-9b4f-43dd-9cd4-1e427561a2a5,ALLIANCE > PUBLIC HEALTH SCOTLAND,Scottish Cancer Registry (SMR06),Gold,85.23,76.51,6.04
 e9d504fc-4b61-4419-a400-ffda998fc377,ALLIANCE > PUBLIC HEALTH SCOTLAND,Scottish Immunisation Recall System (SIRS),Bronze,64.77,54.36,24.83
 2b06afa3-dfc7-424b-8b9a-9325df6cfc19,ALLIANCE > PUBLIC HEALTH SCOTLAND,Scottish Stillbirth and Infant Death Survey,Bronze,64.77,54.36,24.83
 63f9444f-d23b-425c-9ee5-aa09968afa08,ALLIANCE > PUBLIC HEALTH SCOTLAND,SICSAG Daily (Scottish Intensive Care Audit Group),Platinum,94.97,89.93,0.0
 3c9e8226-f12c-4824-9996-29a667b9609c,ALLIANCE > PUBLIC HEALTH SCOTLAND,SICSAG Episodes (Scottish Intensive Care Audit Group),Platinum,94.97,89.93,0.0
-117aa9f5-db76-48f9-9dd2-19e2d00a1b45,ALLIANCE > PUBLIC HEALTH SCOTLAND,Unscheduled Care Datamart,Platinum,94.3,88.59,0.0
+02dceba1-65c7-49e8-a3e2-05e71c1a3033,ALLIANCE > PUBLIC HEALTH SCOTLAND,Unscheduled Care Datamart,Platinum,94.3,88.59,0.0
 6b41863d-690e-492e-8034-303d56f12f22,ALLIANCE > RCGP,The Royal College of General Practitioners (RCGP) Research and Surveillance Centre (RSC) primary care sentinel network and database,Silver,76.12,74.78,22.53
 15805559-2115-4822-b91f-635de36fb289,ALLIANCE > SAIL,Active Adult Survey,Platinum,94.63,94.63,5.37
 3ab70331-aa54-4f0d-aa95-ea2b95bed9d5,ALLIANCE > SAIL,Annual District Birth Extract,Platinum,94.3,93.96,5.37
@@ -395,6 +415,7 @@ c809126e-315b-4bcc-8fa3-741317bf9a4e,ALLIANCE > SAIL,COVID-19 Consolidated Death
 67ae329c-f51e-4a28-9a1c-e35d2819a6c3,ALLIANCE > SAIL,Critical Care Dataset,Platinum,94.63,94.63,5.37
 4b6d3344-e73a-4f46-8e9d-fabb85827772,ALLIANCE > SAIL,Daily Situation Report Data,Platinum,94.3,93.96,5.37
 65c8a30c-de2c-47bf-87e4-18c86e75e54a,ALLIANCE > SAIL,Diagnostic and Therapy Services Waiting Times,Platinum,94.3,93.96,5.37
+41a667eb-1c84-4665-b0d4-d26405d277c5,ALLIANCE > SAIL,Domiciliary Social Care Worker [DSCW],Gold,88.93,88.59,10.74
 d2da2750-7482-4ce9-ae5c-2ab393408a67,ALLIANCE > SAIL,Education - Wales,Platinum,93.96,93.29,5.37
 bd2d56db-f24b-4ac6-9201-3d68c65472b5,ALLIANCE > SAIL,Emergency Department Data Set,Platinum,94.3,93.96,5.37
 5e2a7277-dc64-499a-b16d-51850d9ad00b,ALLIANCE > SAIL,Emergency Department Dataset Daily,Platinum,94.3,93.96,5.37
@@ -419,6 +440,7 @@ ce192e2e-4f31-4bb0-9c1f-5c4173c03011,ALLIANCE > SAIL,Postponed Admitted Procedur
 cfdb9fbd-9f67-435c-b257-6b51430451bb,ALLIANCE > SAIL,Referral to Treatment Times,Platinum,94.3,93.96,5.37
 df514642-bf9d-432f-bf15-4d870fe4ae08,ALLIANCE > SAIL,School Workforce Annual Census (SWAC),Platinum,93.62,93.29,6.04
 f6aa8836-b437-40b6-bd1e-ae20010048dd,ALLIANCE > SAIL,Substance Misuse Dataset,Platinum,94.3,93.96,5.37
+3141f405-9653-4189-9a1f-443a463d4b1b,ALLIANCE > SAIL,Systemic Anti-Cancer Therapy Dataset [SACT],Gold,88.59,87.92,10.74
 b43309eb-7860-49b7-9f11-1a7a0fd5532e,ALLIANCE > SAIL,UK Cystic Fibrosis Registry (CYFI),Platinum,91.61,91.28,8.05
 b8e0b4a8-aab6-47fc-ac6f-76cd5cdc933d,ALLIANCE > SAIL,Welsh Ambulance Services NHS Trust,Platinum,94.3,93.96,5.37
 24095736-dbea-4c37-86fe-ddf3a6933a6b,ALLIANCE > SAIL,Welsh Cancer Intelligence and Surveillance Unit (WCISU),Platinum,94.63,94.63,5.37

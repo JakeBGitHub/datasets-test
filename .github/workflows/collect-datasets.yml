@@ -43,9 +43,9 @@ jobs:
       run: |
         python HDR_assess_datamodels_v2.py
     
-    - name: Auto-generate README
-      run: |
-        python update_readme.py
+#     - name: Auto-generate README
+#       run: |
+#         python update_readme.py
 
     - uses: stefanzweifel/git-auto-commit-action@v4.1.6
       with:
